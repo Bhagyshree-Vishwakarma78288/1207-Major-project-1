@@ -239,7 +239,7 @@ where comment_text like "%good%" or comment_text like "%beautiful%";
 -- This helps in identifying and analyzing comments that use these keywords, which can be useful for sentiment analysis or content evaluation. 
 ## output: The results show that most comments are about beauty and looking good. They reflect a lot of positive feedback and admiration.   
 
--- *******************************************************************************  
+-- **************************************************************************************************************************************  
 -- Q16 write a query to find the posts with the longest captions.
 select * from post; 
 select user_id , caption,length(caption)as longest_captions from post 
@@ -251,9 +251,15 @@ limit 5 ;
 -- and list the posts with the longest captions. 
 ## output: User ID 37 has the longest caption with 80 characters and the second User ID 50 has the second-longest caption with 76 characters 
 
--- *********************************************************************************************************************END
+-- ***************************************************************************************************************************************
 
+ #### we learned how to:
 
+-- Analyze User Activity: Understand how users interact with the platform by looking at posts, likes, and logins.
+# Identify Trends: Find out which hashtags are popular and which posts get the most attention.
+# Understand Engagement: See how active users are and identify those who are less engaged or not contributing.
+# Improve Strategies: Use these insights to develop strategies for increasing user interaction and optimizing content.
+# Overall, the project helps in making informed decisions to enhance user experience and platform growth.
 
 
 

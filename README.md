@@ -1,4 +1,4 @@
-# Internship-Social-media-SQL-project
+# Internship-Social-media-SQL-Major-project-1
 Problem Statement:----
 Why This Project? We created this social media analytics tool to gain deeper insights into user interactions, content performance, and engagement metrics. By analyzing data such as user profiles, posts, comments, likes, and followers, we aim to understand how users engage with the platform and identify trends.
 
